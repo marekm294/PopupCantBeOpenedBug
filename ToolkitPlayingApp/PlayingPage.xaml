@@ -6,7 +6,7 @@
     <VerticalStackLayout>
         <Button
             Clicked="Button_Clicked"
-            Text="Welcome to .NET MAUI!"
+            Text="Test!"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>
